@@ -24,3 +24,7 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 演示地址 ： http://www.yuyi.aijiejie.cn:8889/
+功能：
+1.基本的增删改查
+2.完成撤销功能
+3.实现本地持久化保存
